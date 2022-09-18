@@ -4,3 +4,4 @@ pkg
 .rake_tasks
 *.gem
 Gemfile.lock
+.rbenv-gemsets
